@@ -51,8 +51,8 @@ chmod +x *.sh
 
 # Start the menu tool
 ./maintenance_menu.sh
-
-🔮 Future Enhancements
+```
+## 🔮 Future Enhancements
 
 GUI dashboard for user-friendly interaction
 
